@@ -266,7 +266,8 @@ section {
 
 .about-containers {
   gap: 2rem;
-  margin: 2rem 0;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
 }
 
 .about-details-container {
@@ -318,7 +319,7 @@ section {
 
 .experience-sub-title {
   color: rgb(85, 85, 85);
-  font-size: 1.75 rem;
+  font-size: 1.75rem;
   font-weight: 600;
   margin-bottom: 2rem;
 }
@@ -392,6 +393,7 @@ article .icon {
   border-color: rgb(163, 163, 163);
   background: rgb(250, 250, 250);
   margin: 2rem auto;
+  padding: 0.5rem;
 }
 
 .contact-info-container {
